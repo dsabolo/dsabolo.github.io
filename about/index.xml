@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Diego Sabolo</title>
-    <link>/about/resume/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on Diego Sabolo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/about/resume/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hi there</title>
-      <link>/about/resume/about/me/</link>
+      <link>/about/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/resume/about/me/</guid>
+      <guid>/about/me/</guid>
       <description>Hi&amp;hellip; Let me introduce myself&amp;hellip;
 I&#39;m Diego Sabolo, from Argentina, father of Sofía and husband of Anabella. My work is about creating software pieces that help organizations to achieve their objectives. I have a University Degree in TI from the Buenos Aires University. Been focused in Drupal since 2007 I worked in projects for several companies such as Disney, Parrot, Glamour Magazine, Nestle, and others.
 I mostly creates web apps (from the classic era: Drupal, Wordpress, Laravel and new approaches like JAM Stack), but not just that.</description>
@@ -23,10 +23,10 @@ I mostly creates web apps (from the classic era: Drupal, Wordpress, Laravel and 
     
     <item>
       <title>Resume</title>
-      <link>/about/resume/about/resume/</link>
+      <link>/about/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/resume/about/resume/</guid>
+      <guid>/about/resume/</guid>
       <description>Basic Information Full Name: Diego Esteban Sabolo
 Birth Date: March 31th 1980
 Nationality: Argentina.

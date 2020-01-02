@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/resume/</loc>
+    <loc>/</loc>
     <lastmod>2019-12-31T07:31:11-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/</loc>
+    <loc>/draft/</loc>
     <lastmod>2019-12-31T07:31:11-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/drupal8-services/</loc>
+    <loc>/draft/drupal8-services/</loc>
     <lastmod>2019-12-31T07:31:11-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/static-site-generators-compared/</loc>
+    <loc>/draft/static-site-generators-compared/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/partnerconf-costa-rica-2019/</loc>
+    <loc>/draft/partnerconf-costa-rica-2019/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/drupalconf-seattle-2019-recap/</loc>
+    <loc>/draft/drupalconf-seattle-2019-recap/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/working-at-weknow/</loc>
+    <loc>/draft/working-at-weknow/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/drupalconf-nasville-2018-recap/</loc>
+    <loc>/draft/drupalconf-nasville-2018-recap/</loc>
     <lastmod>2018-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/draft/hello/</loc>
+    <loc>/draft/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/resume/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/archive/</loc>
+    <loc>/archive/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/about/me/</loc>
+    <loc>/about/me/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/post/me/</loc>
+    <loc>/post/me/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/about/resume/</loc>
+    <loc>/about/resume/</loc>
   </url>
   
   <url>
-    <loc>/about/resume/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
